@@ -1,3 +1,3 @@
 # ascii-decoder
 
-little go script to decode ascii strings
+little golang script to decode ascii strings
